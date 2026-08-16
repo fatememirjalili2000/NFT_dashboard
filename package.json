@@ -3,7 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://fatememirjalili2000.github.io/NFT_dashboard",
+  
   "scripts": {
+  
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
