@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/NFT_dashboard/",
+  base: "/NFT_dashboard/", // <--- این خط حتماً همین‌طور باشد
 });
