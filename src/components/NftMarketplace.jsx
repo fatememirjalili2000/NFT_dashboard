@@ -47,7 +47,8 @@ export default function NftMarketplace() {
       author: "Mark Benjamin", 
       price: "0.4 ETH", 
       time: "30s ago",
-      image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?q=80&w=200&auto=format&fit=crop"
+      image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=200&auto=format&fit=crop"
+   
     },
     { 
       title: "Abstract Colors", 
