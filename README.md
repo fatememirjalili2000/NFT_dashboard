@@ -1,16 +1,33 @@
-# React + Vite
+# NFT Dashboard - UI Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a front-end practice project focused on building a modern NFT dashboard interface. The main objective was to refine UI implementation skills using React and Tailwind CSS, practice building modular components, and manage the build and deployment process on GitHub Pages.
 
-Currently, two official plugins are available:
+# Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://fatememirjalili2000.github.io/NFT_dashboard/
 
-## React Compiler
+# About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The application provides a clean, responsive user interface inspired by dashboard designs (such as Horizon UI). Key highlights include:
 
-## Expanding the ESLint configuration
+- Responsive Layout: Grid and flex layouts optimized for desktop, tablet, and mobile viewports.
+- Dashboard Components: Custom UI widgets including top creator lists, trending NFT cards, analytics stats, and sidebar navigation.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Tech Stack
+
+- React.js
+- Vite
+
+# Local Setup
+
+1. Clone the repository:
+   git clone https://github.com/fatememirjalili2000/NFT_dashboard.git
+
+2. Navigate into the project directory:
+   cd NFT_dashboard
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm run dev
